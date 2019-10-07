@@ -1,0 +1,103 @@
+[16:10:46] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[16:10:46] [Server thread/INFO]: Loading properties
+[16:10:46] [Server thread/INFO]: Default game type: SURVIVAL
+[16:10:46] [Server thread/INFO]: Generating keypair
+[16:10:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:10:46] [Server thread/INFO]: Using default channel type
+[16:10:47] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a3fdef8 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[16:10:49] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[16:10:50] [Server thread/WARN]: Plugin SilkSpawners v5.0.2 does not specify an api-version.
+[16:10:50] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[16:10:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.1;61bc012
+[16:10:50] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@775ce4b]
+[16:10:50] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.0
+[16:10:50] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v5.0.2
+[16:10:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.1;61bc012
+[16:10:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:10:50] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+[16:10:51] [Server thread/WARN]: [WorldEdit] ====================================================
+[16:10:51] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[16:10:51] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[16:10:51] [Server thread/WARN]: [WorldEdit]   
+[16:10:51] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[16:10:51] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[16:10:51] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[16:10:51] [Server thread/WARN]: [WorldEdit]   
+[16:10:51] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[16:10:51] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[16:10:51] [Server thread/WARN]: [WorldEdit]   
+[16:10:51] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[16:10:51] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[16:10:51] [Server thread/WARN]: [WorldEdit]   
+[16:10:51] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[16:10:51] [Server thread/WARN]: [WorldEdit] ====================================================
+[16:10:51] [Server thread/INFO]: Preparing level "world"
+[16:10:51] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[16:10:52] [Server thread/INFO]: Loaded 6 recipes
+[16:10:52] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:10:52] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[16:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:53] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:53] [Server thread/INFO]: Preparing spawn area: 51%
+[16:10:55] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[16:10:55] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[16:10:55] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[16:10:55] [Server-Worker-6/INFO]: Preparing spawn area: 91%
+[16:10:55] [Server-Worker-2/INFO]: Preparing spawn area: 91%
+[16:10:56] [Server-Worker-3/INFO]: Preparing spawn area: 97%
+[16:10:56] [Server thread/INFO]: Time elapsed: 4146 ms
+[16:10:56] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[16:10:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:57] [Server thread/INFO]: Preparing spawn area: 11%
+[16:10:57] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[16:10:58] [Server-Worker-2/INFO]: Preparing spawn area: 97%
+[16:10:58] [Server thread/INFO]: Time elapsed: 1541 ms
+[16:10:58] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[16:10:58] [Server thread/INFO]: Preparing spawn area: 0%
+[16:10:58] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[16:10:58] [Server thread/INFO]: Time elapsed: 662 ms
+[16:10:58] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[16:10:58] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[16:10:58] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[16:10:58] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[16:10:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.0
+[16:10:58] [Server thread/INFO]: Creating config from template: C:\Users\Zethan\Desktop\Server\plugins\Essentials\config.yml
+[16:10:58] [Server thread/INFO]: Creating config from template: C:\Users\Zethan\Desktop\Server\plugins\Essentials\kits.yml
+[16:10:58] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[16:10:58] [Server thread/INFO]: No kits found to migrate.
+[16:10:58] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[16:10:58] [Server thread/INFO]: [Essentials] Starting usermap repair
+[16:10:58] [pool-12-thread-1/INFO]: Creating empty config: C:\Users\Zethan\Desktop\Server\plugins\Essentials\upgrades-done.yml
+[16:10:58] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[16:10:58] [Server thread/INFO]: Creating config from template: C:\Users\Zethan\Desktop\Server\plugins\Essentials\worth.yml
+[16:10:59] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:10:59] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[16:10:59] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:10:59] [Server thread/INFO]: Loaded 20977 items from items.json.
+[16:10:59] [Server thread/INFO]: Using locale en_NZ
+[16:10:59] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:10:59] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:10:59] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
+[16:10:59] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[16:10:59] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:10:59] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v5.0.2
+[16:10:59] [Server thread/INFO]: [SilkSpawners] This version of the plugin is NOT compatible with your Minecraft version!
+[16:10:59] [Server thread/INFO]: [SilkSpawners] Please check your versions to make sure they match!
+[16:10:59] [Server thread/INFO]: [SilkSpawners] Disabling now!
+[16:10:59] [Server thread/INFO]: [SilkSpawners] Compatible versions are: [v1_5_R1, v1_5_R2, v1_5_R3, v1_6_R1, v1_6_R2, v1_6_R3, v1_7_R1, v1_7_R2, v1_7_R3, v1_7_R4, v1_8_R1, v1_8_R2, v1_8_R3, v1_9_R1, v1_9_R2, v1_10_R1, v1_11_R1, v1_12_R1]
+[16:10:59] [Server thread/INFO]: [SilkSpawners] Your version is: v1_14_R1
+[16:10:59] [Server thread/INFO]: [SilkSpawners] You can disable this check by setting testMCVersion to false in the config!
+[16:10:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:10:59] [Server thread/INFO]: Done (7.986s)! For help, type "help"
+[16:11:14] [User Authenticator #1/INFO]: UUID of player Zebie1 is 357e358b-41aa-4cc7-95d3-5124b4a0a9c8
+[16:11:14] [Server thread/INFO]: Zebie1[/25.26.204.75:57169] logged in with entity id 141 at ([world]-19.058227473826005, 71.0, 66.13010190138243)
+[16:11:14] [Server thread/WARN]: File motd.txt does not exist. Creating one for you.
+[16:11:15] [pool-12-thread-1/INFO]: Creating empty config: C:\Users\Zethan\Desktop\Server\plugins\Essentials\userdata\357e358b-41aa-4cc7-95d3-5124b4a0a9c8.yml
+[16:11:17] [Server thread/INFO]: Zebie1 issued server command: /gm 1
+[16:11:22] [Server thread/INFO]: Zebie1 issued server command: /help
+[16:11:27] [Server thread/INFO]: Zebie1 issued server command: /smite
+[16:11:29] [Server thread/INFO]: Zebie1 issued server command: /cannon
+[16:11:33] [Server thread/INFO]: Zebie1 issued server command: /help essentials
+[16:11:36] [Server thread/INFO]: Zebie1 issued server command: /bal
+[16:11:41] [Server thread/INFO]: Zebie1 lost connection: Disconnected
+[16:11:41] [Server thread/INFO]: Zebie1 left the game
